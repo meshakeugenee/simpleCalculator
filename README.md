@@ -1,1 +1,2 @@
-live link: https://meshakeugenee.github.io/simpleCalculator/
+## simple calculator
+ - live link: https://meshakeugenee.github.io/simpleCalculator/
